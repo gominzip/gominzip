@@ -3,6 +3,7 @@
 <h2> 🐻 Introduction </h2>
 
 - 📚 Double majoring in **Business Administration** | **Computer Science & Engineering**
+- 👩‍💻 interested in **Front-End**
 - 🐥 COMP 36th
 - 🦁 Likelion 11th in CAU
 
