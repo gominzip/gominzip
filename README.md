@@ -1,4 +1,5 @@
 <h1 align="center"> Hi there, I'm GOMINZIP 👋</h1>
+
 <br>
 <h2> 🐻 Introduction </h2>
 
@@ -6,6 +7,7 @@
 - 👩‍💻 interested in **Front-End**
 - 🐥 COMP 36th
 - 🦁 Likelion 11th in CAU
+- 📨 Contact : [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ahaminji@naver.com)](mailto:ahaminji@naver.com)
 
 
 ### 🌱 I’m currently learning ...
@@ -33,8 +35,7 @@
   <br>
   <div>
 <br><br><br>
-    
-    
+      
  <p align="center"> <b>🍀 Thank you for visiting! 🍀</b>
    <br><br>
    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgominzip&count_bg=%23C2FF93&title_bg=%2365F187&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" align="center"/></a>
