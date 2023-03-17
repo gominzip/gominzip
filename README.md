@@ -1,12 +1,11 @@
 <h1 align="center"> Hi there, I'm GOMINZIP 👋</h1>
-
+<br>
 <h2> 🐻 Introduction </h2>
 
 - 📚 Double majoring in **Business Administration** | **Computer Science & Engineering**
 - 🐥 COMP 36th
 - 🦁 Likelion 11th in CAU
 
-<br>
 
 ### 🌱 I’m currently learning ...
     
