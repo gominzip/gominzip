@@ -7,7 +7,7 @@
 - 👩‍💻 interested in **Front-End**
 - 🐥 COMP 36th
 - 🦁 LikeLion at CAU 11th
-- 📨 Contact : [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ahaminji@naver.com)](mailto:ahaminji@naver.com)
+- 📨 Contact : [![Naver Badge](https://img.shields.io/badge/NAVER-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:ahaminji@naver.com)](mailto:ahaminji@naver.com)
 
 
 ### 🌱 I’m currently learning ...
