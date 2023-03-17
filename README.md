@@ -10,7 +10,7 @@
 - 📨 Contact : [![Naver Badge](https://img.shields.io/badge/NAVER-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:ahaminji@naver.com)](mailto:ahaminji@naver.com)
 
 
-### 🌱 I’m currently learning ...
+### 🌱 I’m currently studying ...
     
 <div align="center">
   <br>
