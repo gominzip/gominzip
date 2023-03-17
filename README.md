@@ -6,7 +6,7 @@
 - 📚 Double majoring in **Business Administration** | **Computer Science & Engineering**
 - 👩‍💻 interested in **Front-End**
 - 🐥 COMP 36th
-- 🦁 Likelion at CAU 11th
+- 🦁 LikeLion at CAU 11th
 - 📨 Contact : [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ahaminji@naver.com)](mailto:ahaminji@naver.com)
 
 
