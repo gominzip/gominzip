@@ -1,31 +1,53 @@
-<div>
-<h1> 💡 About Me </h1>
-<div>
-    
-&nbsp; 📚 Double majoring in **Business Administration** | **Computer Science & Engineering** <br/>
-&nbsp;👩‍💻 interested in **Front-End** <br/>
-&nbsp;🐥 COMP 36th <br/>
-&nbsp;🦁 LikeLion at CAU 11th <br/>
-&nbsp;🌐 Contact :  <img src="https://img.shields.io/badge/NAVER-03C75A?style=flat&logo=Naver&logoColor=white&link=mailto:ahaminji@naver.com"> 
-</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
+## Experience.
+
+| 기간 | 정보 |
+| ------------ | ------------- |
+| 2022.03 ~ 2023.02 | 중앙대학교 웹/앱 개발 중앙동아리 COMP  |
+| 2023.03 ~ 2023.12 | 멋쟁이사자처럼 11기 프론트엔드 |
+| 2023.09 ~ 2023.12 | 창업팀 루시 프론트엔드 개발팀 |
+| 2024.01 ~ | 멋쟁이사자처럼 12기 프론트엔드 파트장 |
+
+## Projects.
+
+| 기간 | 프로젝트명 | 정보 | 비고 |
+| ------------ | ------------- | ------------- | ------------- |
+| 2023.07 ~ 2023.09 | [All It Chat (오리챗)](https://github.com/Team-All-It-Chat/AIC-Web) | 교환학생 멘토멘티 매칭 서비스 | 멋쟁이사자처럼 11기 해커톤|
+| 2023.09 ~ 2023.12 | [아티](https://github.com/Lucy-Arti/Arti-Client) | 신진 의류 디자이너 홍보 및 투표 기반 서포트 서비스| LINC 창업팀 루시 |
+| 2023.11 ~ 2023.12 | [학교 앞 탕후루](https://github.com/huru-huru/huruhuru-Client) | 본격 2000년대 모음 퀴즈/테스트 서비스 | 멋쟁이사자처럼 11기 중커톤 |
+| 2023.11 ~ 2024.01 | [중앙대 멋사 위키](https://github.com/cau-likelion-org/kiwi-client) | 중앙대 멋사인을 위한 추억 아카이빙 위키 서비스 | 사이드프로젝트 중하하|
+| 2024.03 | [가정통신문](https://github.com/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_15_FE) | 대학생들의 더욱 효율적인 의사소통을 위한 공지 서비스 | 2024 구름유니브 벚꽃톤|
+
+## Education.
+
+| 기간 | 정보 |
+| ------------ | ------------- |
+| 2021 ~ | 중앙대학교 경영학부 재학  |
+| 2022 ~ | 소프트웨어학부 복수전공  |
   
-
-<h2> 🌱 Now I’m studying ...   </h2> 
+## Now I’m studying ...
 <div align="start">
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
- <img src="https://img.shields.io/badge/c-007396?style=for-the-badge&logo=c&logoColor=white">  
  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">  
-    <br/>
+    <br>
+    
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> 
-    <br/>
+    <br>
+
+ <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <br>
+    
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">  
-    <br/>
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+    <br>
+    
 </div>
 </div>
 
