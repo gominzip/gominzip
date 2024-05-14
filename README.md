@@ -16,8 +16,8 @@
 | 2023.07 ~ 2023.09 | [All It Chat (오리챗)](https://github.com/Team-All-It-Chat/AIC-Web) | 교환학생 멘토멘티 매칭 서비스 | 멋쟁이사자처럼 11기 해커톤|
 | 2023.09 ~ 2023.12 | [아티](https://github.com/Lucy-Arti/Arti-Client) | 신진 의류 디자이너 홍보 및 투표 기반 서포트 서비스| LINC 창업팀 루시 |
 | 2023.11 ~ 2023.12 | [학교 앞 탕후루](https://github.com/huru-huru/huruhuru-Client) | 본격 2000년대 모음 퀴즈/테스트 서비스 | 멋쟁이사자처럼 11기 중커톤 |
-| 2023.11 ~ 2024.01 | [중앙대 멋사 위키](https://github.com/cau-likelion-org/kiwi-client) | 중앙대 멋사인을 위한 추억 아카이빙 위키 서비스 | 사이드프로젝트 중하하|
-| 2024.03 | [가정통신문](https://github.com/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_15_FE) | 대학생들의 더욱 효율적인 의사소통을 위한 공지 서비스 | 2024 구름유니브 벚꽃톤|
+| 2023.11 ~ 2024.01 | [중앙대 멋사 위키](https://github.com/cau-likelion-org/kiwi-client) | 중앙대 멋사인을 위한 추억 아카이빙 위키 서비스 | 사이드프로젝트 중하하 |
+| 2024.03 | [가정통신문](https://github.com/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_15_FE) | 대학생들의 더욱 효율적인 의사소통을 위한 공지 서비스 | [kakao X goorm] 벚꽃톤 |
 
 ## Education.
 
