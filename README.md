@@ -18,13 +18,6 @@
 | 2023.11 ~ 2023.12 | [학교 앞 탕후루](https://github.com/huru-huru/huruhuru-Client) | 본격 2000년대 모음 퀴즈/테스트 서비스 | 멋쟁이사자처럼 11기 중커톤 |
 | 2023.09 ~ 2023.12 | [아티](https://github.com/Lucy-Arti/Arti-Client) | 신진 의류 디자이너 홍보 및 투표 기반 서포트 서비스| LINC 창업팀 루시 |
 | 2023.07 ~ 2023.09 | [All It Chat (오리챗)](https://github.com/Team-All-It-Chat/AIC-Web) | 교환학생 멘토멘티 매칭 서비스 | 멋쟁이사자처럼 11기 해커톤|
-
-## Education.
-
-| 기간 | 정보 |
-| ------------ | ------------- |
-| 2021 ~ | 중앙대학교 경영학부 재학  |
-| 2022 ~ | 소프트웨어학부 복수전공  |
   
 ## Now I’m studying ...
 <div align="start">
