@@ -1,4 +1,9 @@
-## Experience.
+## Career
+| 기간 | 회사 | 부서 | 담당 |
+| ------------ | ------------- | ------------- | ------------- |
+| 2025.09 - | 당근| 당근알바 (Local Jobs) | Software Engineer Intern, Frontend |
+
+## Experiences
 
 | 기간 | 정보 |
 | ------------ | ------------- |
